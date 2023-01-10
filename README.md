@@ -1,2 +1,8 @@
-# is-sm-npm-package
-Repo for learning npm package
+# hello-world
+
+My first repository on GitHub
+
+I love :coffee: :pizza:, and :dancer:.
+
+
+
